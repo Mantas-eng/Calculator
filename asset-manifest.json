@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mantas-eng/Calculator.git/static/css/main.acf4bcdb.chunk.css",
+    "main.js": "/Mantas-eng/Calculator.git/static/js/main.49764a89.chunk.js",
+    "main.js.map": "/Mantas-eng/Calculator.git/static/js/main.49764a89.chunk.js.map",
+    "runtime-main.js": "/Mantas-eng/Calculator.git/static/js/runtime-main.86948e29.js",
+    "runtime-main.js.map": "/Mantas-eng/Calculator.git/static/js/runtime-main.86948e29.js.map",
+    "static/js/2.b2175eda.chunk.js": "/Mantas-eng/Calculator.git/static/js/2.b2175eda.chunk.js",
+    "static/js/2.b2175eda.chunk.js.map": "/Mantas-eng/Calculator.git/static/js/2.b2175eda.chunk.js.map",
+    "index.html": "/Mantas-eng/Calculator.git/index.html",
+    "precache-manifest.b870e3729062866fd64b935f5a70e1f5.js": "/Mantas-eng/Calculator.git/precache-manifest.b870e3729062866fd64b935f5a70e1f5.js",
+    "service-worker.js": "/Mantas-eng/Calculator.git/service-worker.js",
+    "static/css/main.acf4bcdb.chunk.css.map": "/Mantas-eng/Calculator.git/static/css/main.acf4bcdb.chunk.css.map",
+    "static/js/2.b2175eda.chunk.js.LICENSE.txt": "/Mantas-eng/Calculator.git/static/js/2.b2175eda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86948e29.js",
+    "static/js/2.b2175eda.chunk.js",
+    "static/css/main.acf4bcdb.chunk.css",
+    "static/js/main.49764a89.chunk.js"
+  ]
+}
